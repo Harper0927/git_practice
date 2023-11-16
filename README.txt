@@ -1,4 +1,3 @@
-This page contains the data for the table of 2022-2023 The Premier League published at 2023-05-23.
-Below is the discription of the headline.
-
-# Header Discription
+Deaths involving COVID-19, pneumonia, and influenza reported to NCHS by sex, age group, and jurisdiction of occurrence.
+Effective September 27, 2023, this dataset will no longer be updated. Similar data are accessible from wonder.cdc.gov.
+Data Provided By NCHS/DVS
